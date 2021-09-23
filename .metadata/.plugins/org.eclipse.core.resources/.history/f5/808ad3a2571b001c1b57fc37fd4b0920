@@ -1,0 +1,14 @@
+<% page language="java" contentType="text/html"; charset=ISO-8859-1" pageEncoding="ISO-8859-1" %>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Addition Result</title>
+</head>
+
+<body>
+    Result = <% request.getAttribute("Result"); %>
+    <p>My name is Ravi Yadav</p>
+</body>
+
+</html>

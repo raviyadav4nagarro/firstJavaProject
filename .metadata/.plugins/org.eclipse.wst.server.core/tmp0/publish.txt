@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Wed Sep 22 17:04:06 IST 2021
+org.eclipse.jst.j2ee.server\:firstproject=C\:\\Users\\raviyadav02\\Documents\\workspace-spring-tool-suite-4-4.11.1.RELEASE\\apache-tomcat-9.0.53-windows-x64\\apache-tomcat-9.0.53\\webapps\\firstproject
+org.eclipse.jst.j2ee.server\:/binary\:C\:\\Users\\raviyadav02\\.m2\\repository\\org\\springframework\\spring-web\\4.1.6.RELEASE\\spring-web-4.1.6.RELEASE.jar=C\:\\Users\\raviyadav02\\Documents\\workspace-spring-tool-suite-4-4.11.1.RELEASE\\apache-tomcat-9.0.53-windows-x64\\apache-tomcat-9.0.53\\webapps\\firstproject\\WEB-INF\\lib\\spring-web-4.1.6.RELEASE.jar

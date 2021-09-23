@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Addition Result</title>
+</head>
+
+<body>
+    Result = ${result}
+</body>
+
+</html>

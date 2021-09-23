@@ -1,0 +1,10 @@
+<html>
+<body>
+<h2>Addition MVC Application!</h2>
+<form action = "Add">
+    Number1 : <input type="number" name="t1"><br>
+    Number2 : <input type="number" name="t2"><br>
+    <button type = "submit">Submit</button>
+</form>
+</body>
+</html>
